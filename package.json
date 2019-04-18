@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "express": "^4.16.2",
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rnak/nodejs-hello-world.git"
